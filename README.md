@@ -1,8 +1,10 @@
 # 201-People-Infant-Cry-Speech-Data-by-Mobile-Phone
-https://www.datatang.ai/datasets/998
+
 
 ## Description
 Crying sound of 201 infants and young children aged 0~3 years old, a number of paragraphs from each of them; It provides data support for detecting children's crying sound in smart home projects.
+
+For more details, please refer to the link: https://bit.ly/3C78BdE
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
@@ -21,3 +23,6 @@ iPhone, Android mobile phone
 
 ## Application scene
 abnormal voice recognition,smart home
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
